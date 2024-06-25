@@ -13,6 +13,7 @@
         "geoip2/geoip2": "^2.12",
         "guzzlehttp/guzzle": "^7.0.1",
         "jenssegers/agent": "^2.6",
+        "jxlwqq/simditor": "^1.0",
         "laracasts/flash": "^3.2",
         "laravel/framework": "^8.12",
         "laravel/sanctum": "^2.9",
