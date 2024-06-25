@@ -24,6 +24,7 @@ class Activity extends Model
     protected $casts = [
         'cover'         =>  Assert::class,
         'started_at'    =>  'datetime',
+        'ended_at'      =>  'datetime',
     ];
 
     /**
